@@ -1,4 +1,4 @@
-# 📱 Android MVVM App
+# 📱 Android Test Coin App
 
 An Android application built using **MVVM (Model-View-ViewModel)** architecture, demonstrating clean architecture principles, separation of concerns, and modern Android development best practices.
 
